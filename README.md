@@ -42,8 +42,8 @@ Follow these steps to get a local copy up and running:
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd food-management/frontend
+git clone https://github.com/kaveeyasri/Food-Management
+cd Food-Management
 ```
 
 ### 2. Install dependencies
